@@ -81,7 +81,7 @@ public class StepDifinition extends Utils {
 		
 		String actualstatus=jsonParse(response, status);
 		
-		assertEquals(actualstatus,okay)
+		assertEquals(actualstatus,okay);
 	}
 
 }
